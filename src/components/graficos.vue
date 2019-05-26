@@ -524,7 +524,7 @@
                     rows: []
                 },
                 NIVEL: {
-                    columns: ['Date', 'Nivel'],
+                    columns: ['Date', 'Volume'],
                     rows: []
                 },
                 TEMP: {
