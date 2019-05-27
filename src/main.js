@@ -22,12 +22,12 @@ Vue.use(VueGeolocation)
 
 Vue.use(VueFire)
 firebase.initializeApp({
-  apiKey: "AIzaSyBtJpj1Uqr460GR2uBH1KATpmDUDYwfCQM",
-    authDomain: "nomujc.firebaseapp.com",
-    databaseURL: "https://nomujc.firebaseio.com",
-    projectId: "nomujc",
-    storageBucket: "nomujc.appspot.com",
-    messagingSenderId: "1020944061791"
+  apiKey: "AIzaSyArdVsYOcRlozBBgvCOBbsvf1AQZLCxqaM",
+    authDomain: "nomuiscas.firebaseapp.com",
+    databaseURL: "https://nomuiscas.firebaseio.com",
+    projectId: "nomuiscas",
+    storageBucket: "nomuiscas.appspot.com",
+    messagingSenderId: "347679981810"
 })
 export const db = firebase.firestore()
 
